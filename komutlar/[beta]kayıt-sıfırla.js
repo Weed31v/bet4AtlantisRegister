@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const datab = require('quick.db')
 const ayarlar = require("../ayarlar.json")
 const moment = require("moment");
-const ms = require('ms')
+const ms = require('ms');
 
 
    module.exports.run = async (client, message, args) => {
